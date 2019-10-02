@@ -1,0 +1,7 @@
+{
+    "pathData" : {
+        "txt" : "textFiles",
+        "pdf" : "pdfFiles",
+        "mkv" : "Videos"
+    }
+}
