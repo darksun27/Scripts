@@ -1,7 +1,32 @@
 {
     "pathData" : {
         "txt" : "textFiles",
+        "rtf" : "textFiles",
+        "odt" : "textFiles",
+        "doc" : "textFiles",
+        "docx" : "textFiles",
         "pdf" : "pdfFiles",
-        "mkv" : "Videos"
+        "djvu" : "bookFiles",
+        "fb2" : "bookFiles",
+        "epub" : "bookFiles",
+        "wma" : "Audios",
+        "mp3" : "Audios",
+        "wav" : "Audios",
+        "flac" : "Audios",
+        "mkv" : "Videos",
+        "avi" : "Videos",
+        "mpeg" : "Videos",
+        "flv" : "Videos",
+        "mov" : "Videos",
+        "3gp" : "Videos",
+        "ogg" : "Videos",
+        "vob" : "Videos",
+        "tiff" : "Images",
+        "jpeg" : "Images",
+        "bmp" : "Images",
+        "jpe" : "Images",
+        "jpg" : "Images",
+        "png" : "Images",
+        "gif" : "Images"
     }
 }
