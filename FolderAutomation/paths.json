@@ -2,6 +2,11 @@
     "pathData" : {
         "txt" : "textFiles",
         "pdf" : "pdfFiles",
-        "mkv" : "Videos"
+        "mkv" : "Videos",
+        "jpg" : "Images",
+        "png" : "Images",
+        "jpeg" : "Images",
+        "xlsx" : "excelSheets",
+        "mp4" : "Videos"
     }
 }
