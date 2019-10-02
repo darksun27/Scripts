@@ -27,6 +27,12 @@
         "jpe" : "Images",
         "jpg" : "Images",
         "png" : "Images",
-        "gif" : "Images"
+        "gif" : "Images",
+        "exe" : "ExecutableFiles",
+        "rar" : "CompressedFiles",
+        "zip" : "CompressedFiles",
+        "zipx" : "CompressedFiles",
+        "tar" : "CompressedFiles",
+        "7z" : "CompressedFiles"
     }
 }
