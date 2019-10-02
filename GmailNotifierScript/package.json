@@ -1,0 +1,16 @@
+{
+  "name": "gmail_notifier",
+  "version": "1.0.0",
+  "description": "Gives a popup notification on a new email",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "darksun27",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "mail-listener": "^0.7.1",
+    "mail-listener2": "^0.3.1"
+  }
+}
