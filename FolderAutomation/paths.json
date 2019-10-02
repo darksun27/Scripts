@@ -33,6 +33,6 @@
         "zip" : "CompressedFiles",
         "zipx" : "CompressedFiles",
         "tar" : "CompressedFiles",
-        "7z" : "CompressedFiles"
+        "gz" : "CompressedFiles"
     }
 }
