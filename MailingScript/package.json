@@ -1,0 +1,15 @@
+{
+  "name": "mailingscript",
+  "version": "1.0.0",
+  "description": "Script for sending bulk messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "darksun27",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.1.0",
+    "nodemailer": "^6.3.0"
+  }
+}
