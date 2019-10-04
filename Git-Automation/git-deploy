@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo "Starting Git-Deploy"
+read -r -p "Commit Message: " msg
+git add -A
+git commit -a -m "$msg"
+git push origin master
