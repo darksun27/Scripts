@@ -95,8 +95,8 @@ fs.watch(`${pathToWatch}`, (eventType, filename) => {
                         moveFile(extension, filename).then(() => {
                             console.log("File Moved")
                         }).catch((err) => {
-                            console.log(err)
-                        })
+                            console.log(err);
+                        });
                     }
                     catch(err) {
                         console.Error("Adding Error\n",err);
@@ -114,8 +114,8 @@ fs.watch(`${pathToWatch}`, (eventType, filename) => {
                         moveFile(extension, filename).then(() => {
                             console.log("File Moved")
                         }).catch((err) => {
-                            console.log(err)
-                        })
+                            console.log(err);
+                        });
                     }
                     catch(err) {
                         console.Error("Renaming Error\n",err);
