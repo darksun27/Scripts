@@ -2,4 +2,4 @@
 
 echo "Setting up Online Class Environment"
 echo "Opening Chrome with Hatch-XR ,Tech-Check and Whatsapp"
-google-chrome hatchxr.com campk12.com/tech-check web.whatsapp.com
+google-chrome hatchxr.com campk12.com/tech-check web.whatsapp.com https://campk12.com/session/virtual-reality-at-campk-12/94YPVZOJ/teacher
