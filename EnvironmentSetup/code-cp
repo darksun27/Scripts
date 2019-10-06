@@ -1,0 +1,6 @@
+#!/bin/bash
+
+echo "Setting up Competitive Environment"
+code /home/darksun27/CP/
+code /home/darksun27/CP/ in.txt
+firefox codechef.com codeforces.com
