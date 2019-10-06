@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "Setting up Competitive Environment"
+code
+firefox -new-window github.com gmail.com google.com soundcloud.com/you/library
