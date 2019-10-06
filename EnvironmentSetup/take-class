@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "Setting up Online Class Environment"
+echo "Opening Chrome with Hatch-XR ,Tech-Check and Whatsapp"
+google-chrome hatchxr.com campk12.com/tech-check web.whatsapp.com
