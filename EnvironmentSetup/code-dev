@@ -2,4 +2,4 @@
 
 echo "Setting up Competitive Environment"
 code
-firefox -new-window github.com gmail.com google.com soundcloud.com/you/library
+firefox -new-window github.com gmail.com google.com soundcloud.com/you/library https://www.youtube.com/
