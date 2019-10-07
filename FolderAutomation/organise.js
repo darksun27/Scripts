@@ -1,5 +1,5 @@
 const fs = require('fs');
-const paths = require('./paths.json')["pathData"];
+const paths = require('/home/darksun27/100DaysofCode/Scripts/FolderAutomation/paths.json')["pathData"];
 
 
 var pathToWatch = process.argv[2];
