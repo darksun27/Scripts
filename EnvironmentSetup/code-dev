@@ -1,5 +1,5 @@
 #!/bin/bash
 
-echo "Setting up Competitive Environment"
-code
+echo "Setting up Productive Environment" && echo "Starting Visual Studio Code"
+code && echo "Starting Firefox with suitable tabs"
 firefox -new-window github.com gmail.com google.com soundcloud.com/you/library https://www.youtube.com/
