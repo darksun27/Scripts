@@ -85,12 +85,12 @@ countFiles().then((files) => {
 
 fs.watch(`${pathToWatch}`, (eventType, filename) => {
     if(filename) {
-        //console.log("Event Occured: ", eventType," File Changed: ",filename);
+        console.log("Event Occured: ", eventType," File Changed: ",filename);
         countFiles().then((files) => {
             if(files["length"] > totalFiles) {
                 workingFile = filename.split('.');
                 extension = workingFile.pop();
-                if(paths[extension] && !movingFile && workingFile.length > 1){
+                if(paths[extension] && !movingFile){
                     try {
                         moveFile(extension, filename).then(() => {
                             console.log("File Moved")
@@ -108,8 +108,9 @@ fs.watch(`${pathToWatch}`, (eventType, filename) => {
             }
             else { 
                 workingFile = filename.split('.');
+                console.log(workingFile.length);
                 extension = workingFile.pop();
-                if(paths[extension] && !movingFile && workingFile.length > 1){
+                if(paths[extension] && !movingFile){
                     try {
                         moveFile(extension, filename).then(() => {
                             console.log("File Moved")
