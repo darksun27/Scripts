@@ -2,4 +2,4 @@
 
 echo "Setting up Productive Environment" && echo "Starting Visual Studio Code"
 code && echo "Starting Firefox with suitable tabs"
-firefox -new-window github.com gmail.com google.com soundcloud.com/you/library https://www.youtube.com/
+firefox github.com gmail.com google.com soundcloud.com/you/library https://www.youtube.com/
