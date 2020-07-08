@@ -33,6 +33,7 @@
         "zip" : "CompressedFiles",
         "zipx" : "CompressedFiles",
         "tar" : "CompressedFiles",
-        "gz" : "CompressedFiles"
+        "gz" : "CompressedFiles",
+        "dll" : "DynamicLinkLibrary"
     }
 }
