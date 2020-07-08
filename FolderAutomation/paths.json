@@ -29,6 +29,7 @@
         "jpg" : "Images",
         "png" : "Images",
         "gif" : "Images",
+        "raw" :"Images",
         "exe" : "ExecutableFiles",
         "rar" : "CompressedFiles",
         "zip" : "CompressedFiles",
