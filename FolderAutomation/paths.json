@@ -1,5 +1,6 @@
 {
     "pathData" : {
+        "avi" : "Videos",
         "txt" : "textFiles",
         "rtf" : "textFiles",
         "odt" : "textFiles",
